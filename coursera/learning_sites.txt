@@ -1,0 +1,56 @@
+Here are the best websites for Python challenges, categorized by your experience level.
+
+---
+
+## 1. For Beginners (Learning Syntax & Core Concepts)
+
+If you are just getting comfortable with loops, variables, and basic functions, you want sites that focus on writing clean code rather than complex math or algorithms.
+
+* **Exercism (`exercism.org`)**
+* **Why it’s great:** It is 100% free and community-driven. You choose the Python track, download exercises to your local machine (or use their browser editor), and submit them.
+* **The Killer Feature:** Real human mentoring. Once you submit your code, actual human mentors review it for free to tell you how to make your Python code more readable and "Pythonic."
+
+
+* **CheckiO (`checkio.org`)**
+* **Why it’s great:** It turns learning Python into an actual game. You navigate an island map by solving coding challenges that require you to use strings, lists, and basic loops. It's incredibly visual and perfect for younger or gamified learners.
+
+
+
+---
+
+## 2. For Intermediates (Building Fluency & Logic)
+
+Once you know the basics, these sites help bridge the gap between knowing the syntax and knowing how to solve unique logical problems.
+
+* **Codewars (`codewars.com`)**
+* **Why it’s great:** Another heavily gamified platform where challenges are called **"Kata."** You start at Rank 8kyu (easiest) and work your way up to 1kyu (expert).
+* **The Killer Feature:** The solutions page. Once you solve a challenge, you get to see how everyone else solved it. You will learn incredibly clever, efficient Python tricks just by reading other users' answers.
+
+
+* **PyBites (`pybit.es`)**
+* **Why it’s great:** This platform is built specifically and exclusively for Python. Instead of generic computer science problems, its "Bites" force you to use Python’s built-in libraries, standard collections, and unique language features.
+
+
+
+---
+
+## 3. For Advanced & Career Prep (Algorithms & Data Structures)
+
+If you are prepping for coding interviews, trying to land a software engineering job, or want to challenge your mastery of data structures.
+
+* **LeetCode (`leetcode.com`)**
+* **Why it’s great:** The undisputed industry standard for technical interview prep. It has thousands of problems categorized by Easy, Medium, and Hard.
+* **Tip:** Don't just click randomly. Follow curated community tracks like the **"Blind 75"** or **"NeetCode 150"** to learn fundamental patterns (like sliding windows, trees, and dynamic programming).
+
+
+* **HackerRank (`hackerrank.com`)**
+* **Why it’s great:** Very popular with recruiters. Many companies use HackerRank to send automated pre-interview coding tests. It features language-specific tracks (including a dedicated Python badge) alongside general problem-solving.
+
+
+
+---
+
+## 4. For Math & Logic Lovers
+
+* **Project Euler (`projecteuler.net`)**
+* **Why it’s great:** If you love mathematics, this is the ultimate test. It's a collection of intense mathematical/computer programming problems. The early ones are easy, but they rapidly require you to write highly optimized Python algorithms to prevent your computer from crashing or running out of memory.
